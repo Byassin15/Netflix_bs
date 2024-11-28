@@ -10,7 +10,6 @@ body {
   --font-base: "Lexend", sans-serif;
   --font-second-base: "inter", sans-serif;
   --bg-color: #111;
-  primary-color: #ffffff;
+  --primary-color: #ffffff;
   --secondary-color: #e50914;
 }
-
